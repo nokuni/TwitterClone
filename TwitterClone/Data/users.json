@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Maria",
+        "hashtag": "@SuperGirl",
+        "image": "userImage0",
+    },
+    {
+        "username": "Jane ",
+        "hashtag": "@JaneOnDuty",
+        "image": "userImage1",
+    },
+    {
+        "username": "William Johnson",
+        "hashtag": "@TheGreatest",
+        "image": "userImage2",
+    },
+    {
+        "username": "Georges Kane",
+        "hashtag": "@BestGK",
+        "image": "userImage3",
+    },
+    {
+        "username": "Dwayne",
+        "hashtag": "@Dwayne",
+        "image": "userImage4",
+    },
+]
