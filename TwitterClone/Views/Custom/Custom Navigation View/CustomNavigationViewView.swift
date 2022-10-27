@@ -20,6 +20,7 @@ struct CustomNavigationViewView: View {
             if !isChanged {
                 VStack(spacing: 10) {
                     HStack {
+                        
                         Image(user.image)
                             .resizable()
                             .clipShape(Circle())
